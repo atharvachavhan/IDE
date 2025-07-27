@@ -1,0 +1,40 @@
+Oh no MONGOOSE Error !!! 27/7/2025, 4:23:50 pm
+Error: querySrv ENOTFOUND _mongodb._tcp.cluster.mongodb.net
+    at QueryReqWrap.onresolve [as oncomplete] (node:internal/dns/callback_resolver:45:19) {
+  errno: undefined,
+  code: 'ENOTFOUND',
+  syscall: 'querySrv',
+  hostname: '_mongodb._tcp.cluster.mongodb.net'
+}
+Error while inserting log into the database: MongooseError: Operation `logs.insertOne()` buffering timed out after 10000ms
+    at Timeout.<anonymous> (D:\Algo Codie-Project\server\node_modules\mongoose\lib\drivers\node-mongodb-native\collection.js:151:23)
+    at listOnTimeout (node:internal/timers:573:17)
+    at process.processTimers (node:internal/timers:514:7)
+Error while inserting log into the database: MongooseError: Operation `logs.insertOne()` buffering timed out after 10000ms
+    at Timeout.<anonymous> (D:\Algo Codie-Project\server\node_modules\mongoose\lib\drivers\node-mongodb-native\collection.js:151:23)
+    at listOnTimeout (node:internal/timers:573:17)
+    at process.processTimers (node:internal/timers:514:7)
+Error while inserting log into the database: MongooseError: Operation `logs.insertOne()` buffering timed out after 10000ms
+    at Timeout.<anonymous> (D:\Algo Codie-Project\server\node_modules\mongoose\lib\drivers\node-mongodb-native\collection.js:151:23)
+    at listOnTimeout (node:internal/timers:573:17)
+    at process.processTimers (node:internal/timers:514:7)
+Error while inserting log into the database: MongooseError: Operation `logs.insertOne()` buffering timed out after 10000ms
+    at Timeout.<anonymous> (D:\Algo Codie-Project\server\node_modules\mongoose\lib\drivers\node-mongodb-native\collection.js:151:23)
+    at listOnTimeout (node:internal/timers:573:17)
+    at process.processTimers (node:internal/timers:514:7)
+Error while inserting log into the database: MongooseError: Operation `logs.insertOne()` buffering timed out after 10000ms
+    at Timeout.<anonymous> (D:\Algo Codie-Project\server\node_modules\mongoose\lib\drivers\node-mongodb-native\collection.js:151:23)
+    at listOnTimeout (node:internal/timers:573:17)
+    at process.processTimers (node:internal/timers:514:7)
+Error while inserting log into the database: MongooseError: Operation `logs.insertOne()` buffering timed out after 10000ms
+    at Timeout.<anonymous> (D:\Algo Codie-Project\server\node_modules\mongoose\lib\drivers\node-mongodb-native\collection.js:151:23)
+    at listOnTimeout (node:internal/timers:573:17)
+    at process.processTimers (node:internal/timers:514:7)
+Oh no MONGOOSE Error !!! 27/7/2025, 4:29:34 pm
+Error: querySrv ENOTFOUND _mongodb._tcp.cluster.mongodb.net
+    at QueryReqWrap.onresolve [as oncomplete] (node:internal/dns/callback_resolver:45:19) {
+  errno: undefined,
+  code: 'ENOTFOUND',
+  syscall: 'querySrv',
+  hostname: '_mongodb._tcp.cluster.mongodb.net'
+}
